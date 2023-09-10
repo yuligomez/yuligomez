@@ -1,4 +1,3 @@
 👋 Hi, I’m Yuliana.
-I’m an advanced student of system engineering,passionate about technologies.
-🌱 I’m currently learning Microservices architecture and Machine Learning.
+I’m an advanced student of system engineering, passionate about technologies.
 📫 Reach me on yulianagomezsilva@gmail.com 
